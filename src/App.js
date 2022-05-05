@@ -6,6 +6,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <div id="header">
+          <p>Navbar tab1</p>
+          <p>Navbar tab2</p>
+        </div>
         <p>
           Edit <code>src/App.js</code> and save to reloadsssss.
         </p>
